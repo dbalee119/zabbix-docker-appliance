@@ -1,1 +1,1 @@
-# zabbix-docker-appliance
+# 네트워크 / Grafana 컨테이너 모니터링 구축  프로젝트
